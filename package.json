@@ -20,7 +20,7 @@
   },
   "jspm": {
     "registry": "npm",
-    "main": "html-import-template-loader",
+    "main": "aurelia-html-import-template-loader",
     "format": "amd",
     "directories": {
       "dist": "dist/amd"
