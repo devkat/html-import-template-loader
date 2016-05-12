@@ -20,16 +20,10 @@
   },
   "jspm": {
     "registry": "npm",
-    "jspmPackage": true,
     "main": "html-import-template-loader",
     "format": "amd",
     "directories": {
       "dist": "dist/amd"
-    },
-    "peerDependencies": {
-      "aurelia-loader": "^1.0.0-beta.1.1.0",
-      "aurelia-pal": "^1.0.0-beta.1.1.1",
-      "webcomponents.js": "^0.7.22"
     },
     "dependencies": {
       "aurelia-loader": "^1.0.0-beta.1.1.0",
